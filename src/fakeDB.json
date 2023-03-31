@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author_name": "Mahiya Jannat",
+      "blog_title": "Building a Chatbot with Python: A Practical Guide Using NLP and ML Techniques",
+      "post":"Chatbots have become increasingly popular in recent years, offering a convenient way for businesses to interact with customers and provide support around the clock. In this post, we'll provide a practical guide .........",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "author_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      "read_time": "10 min",
+      "publish_date": " April 27 (A few days  ago)"
+    },
+    {
+      "id": 2,
+      "author_name": "Rivor Mower",
+      "blog_title": "Top 10 Remote Work Tips for Success: A Practical Guide to Efficiently Working from Anywhere",
+      "post":"Remote work has become increasingly popular, especially in the wake of the COVID-19 pandemic. However, working from home or another remote location can present unique challenges. In this post, we'll provide a practical guide to efficiently working from anywhere, with our top 10 remote work tips for success...",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=832&q=80",
+        "author_image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      "read_time": "5 min",
+      "publish_date": "Jun 9 ( 6 days ago )"
+    },
+    {
+      "id": 3,
+      "author_name": "Mike Johnson",
+      "blog_title": "Exploring the Numerous Benefits of Meditation for Mind, Body, and Overall Well-being",
+      "post":"Your website is often the first impression potential customers have of your brand, so it's important to make it engaging and user-friendly. In this post, we'll provide best practices and essential tips for designing an effective website, including considerations for .........",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1474418397713-7ede21d49118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80",
+        "author_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+      },
+      "read_time": "7 min",
+      "publish_date": "Dec 29 ( A few sec ago)"
+    },
+    {
+      "id": 4,
+      "author_name": "Emily Brown",
+      "blog_title": "Designing an Engaging Website: Best Practices and Essential Tips for an Effective Online Presence",
+      "post":"Your website is the digital face of your brand, so it's important to make it engaging and user-friendly. In this post, we'll provide best practices and essential tips for designing an effective website, including considerations for layout and navigation, content creation, and mobile optimization",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80",
+        "author_image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      "read_time": "12 min",
+      "publish_date": "Sep 30 (Now publish)"
+    },
+    {
+      "id": 5,
+      "author_name": "David Lee",
+      "blog_title": "Machine Learning 101: A Beginner's Guide to Understanding the Fundamentals and Applications of ML",
+      "post":"Machine learning is a rapidly growing field that has the potential to revolutionize a wide range of industries. In this post, we'll provide a beginner's guide to understanding the fundamentals ...... ",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "author_image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=721&q=80"
+      },
+      "read_time": "15 min",
+      "publish_date": "Feb 22 ( 1 days ago )"
+    },
+    {
+      "id": 6,
+      "author_name": "Suuea Kim",
+      "blog_title": "The Art of Negotiation: Strategies, Techniques, and Tips for Successful Communication and Conflict Resolution",
+      "post":"The art of negotiation is an essential skill for anyone looking to succeed in both their personal and professional life. By mastering negotiation strategies, techniques, and tips, you can communicate effectively and resolve conflicts with confidence.",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1551135049-8a33b5883817?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "author_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      "read_time": "8 min",
+      "publish_date": "March 6 (2 days  ago )"
+    },
+    {
+      "id": 7,
+      "author_name": "Chris Lee",
+      "blog_title": "Why Diversity is Crucial for Workplace Success: Benefits, Challenges, and Best Practices for Fostering an Inclusive Environment",
+      "post":"Diversity in the workplace has become an increasingly important topic in recent years, and for good reason. A diverse workforce can bring a range of  ........",
+      "images": {
+        "blog_cover_image": "https://images.unsplash.com/photo-1573167036629-fd1d76448ddf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "author_image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+      },
+      "read_time": "6 min",
+      "publish_date": "April 14 (12 days ago)"
+    }
+  ]
+}
